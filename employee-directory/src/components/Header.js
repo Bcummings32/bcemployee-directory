@@ -15,4 +15,3 @@ const Header = () => {
 };
 
 export default Header;
-© 2021 GitHub, Inc.
